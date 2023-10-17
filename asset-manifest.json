@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ethnus_React_Task_3/static/css/main.a6ba2219.css",
+    "main.js": "/Ethnus_React_Task_3/static/js/main.64546b3f.js",
+    "static/js/787.b3ca4345.chunk.js": "/Ethnus_React_Task_3/static/js/787.b3ca4345.chunk.js",
+    "index.html": "/Ethnus_React_Task_3/index.html",
+    "main.a6ba2219.css.map": "/Ethnus_React_Task_3/static/css/main.a6ba2219.css.map",
+    "main.64546b3f.js.map": "/Ethnus_React_Task_3/static/js/main.64546b3f.js.map",
+    "787.b3ca4345.chunk.js.map": "/Ethnus_React_Task_3/static/js/787.b3ca4345.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6ba2219.css",
+    "static/js/main.64546b3f.js"
+  ]
+}
